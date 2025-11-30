@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://gitlab.com/ryniu/git-ops-argocd-workshop.git
+    repoURL: https://github.com/outlaw1988/git-ops-argocd-workshop.git
     targetRevision: main
     path: apps/nginx-helm
     helm:
